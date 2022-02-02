@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	<title> Seiko Holdings Corporation </title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+  <footer>
+ <p> Author: Alexandru M. </p>
+ </footer>
+  <main>
+ <h1> Seiko </h1>
+ <img src="seikologo.png">
+ <p>  Japanese maker of watches, clocks, electronic devices, semiconductors, jewelries, and optical products!
+ </p>
+ </main>
+  <h3>Founder: Kintarō Hattori</h3>
+  <h3>Founded: 1881, Chuo City, Tokyo, Japan</h3>
+  <h3>Headquarters: Minato City, Tokyo, Japan</h3>
+ </h3>
+ <nav>
+   <a href="Assignment.html">HOME</a>
+   <a href="seiko_picture.html">Seiko Picture</a>
+   <a href="seiko_video.html">Seiko Video</a>
+  </nav> 
+  </body>
+</html>
