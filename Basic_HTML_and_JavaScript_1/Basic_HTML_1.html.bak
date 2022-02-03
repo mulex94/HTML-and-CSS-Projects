@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html>
+<script src="Basic_JavaScript_1.js">
+</script>
+<head>
+ <title size=7>Let me show my hometown</title>
+</head>
+<body>
+  <p id="paragraph1"><font color="#0000FF"  face="Time New Roman" size="5"> This is <i>Vatra Dornei</i></font></p>
+  <p id="paragraph2"><font color=yellow  face="Verdana" size="4"> <b>Located in East Europe,</font><u><font color="red" size="4"> Romania!</u> </b></font></p>
+  <img src="ometown.jpg" alt="Vatra-Dornei-photo" >
+</body>
+</html>
+</html>
