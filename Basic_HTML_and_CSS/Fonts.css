@@ -1,0 +1,19 @@
+body{
+	font-weight:bold;
+	text-align: center;
+	}
+
+.font_1 {
+	background-color:purple;
+	color:yellow;
+	font-size:large;
+	font-style:italic;
+	font-weight:bold;
+	text-align: center;
+	}
+	.font_2 {
+	background-color:white;
+	color:DarkRed;
+	font-size:medium;
+	text-decoration: underline;
+	}
